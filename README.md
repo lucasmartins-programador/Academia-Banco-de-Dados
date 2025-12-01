@@ -94,7 +94,7 @@ Inclui diversas consultas para análise e relatórios, como:
 
 ---
 
-## 🗂️ Diagrama resumido (texto)
+### 🗂️ Diagrama resumido (texto)
 ```text
 plano (1) ---- (N) aluno ---- (N) pagamento
                      |
@@ -103,8 +103,8 @@ plano (1) ---- (N) aluno ---- (N) pagamento
                      +---- (N) treino ---- instrutor
                                  |
                                  +---- (N) treino_exercicio ---- exercicio
-
-## ✔️ Objetivo do projeto
+```
+### ✔️ Objetivo do projeto
 
 Este banco foi projetado para:
 
@@ -113,4 +113,5 @@ Este banco foi projetado para:
 - Acompanhamento de métricas corporais  
 - Histórico de pagamentos  
 - Organização de exercícios por grupo muscular  
+
 - Relatórios prontos para uso
